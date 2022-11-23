@@ -9,6 +9,7 @@ Notion for Best fit line is RESIDUALS - Residual is associated with every data p
 
 where,
 Yi - actual data value when x is equal to some values i.e, when x = 2 or x = 6.
+
 Ypred - predicted value on line when x is equal to some value.
 
 The best fit line is obtained by minimising the quantity called Residual Sum of Squares (RSS)
